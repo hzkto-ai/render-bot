@@ -50,7 +50,7 @@ def edit_message(chat_id, msg_id, text, keyboard=None):
     except:
         pass
 
-print("✅ Бот запущен на Render.com")
+print("✅ Бот запущен на Railway")
 print(f"🌐 Магазин: {WEBAPP_URL}")
 print(f"👤 Админ: @{ADMIN_USERNAME}")
 
